@@ -1,7 +1,6 @@
 # Fake-app
 FakeApp is e-commerce website . Made react-redux ,css other many libraries . It has sorting filtering functionality . 
-# Fake-app
-FakeApp is e-commerce website . Made react-redux ,css other many libraries . It has sorting filtering functionality . 
+  has sorting filtering functionality . 
  
   <ul> 
 <li>HTML</li>
