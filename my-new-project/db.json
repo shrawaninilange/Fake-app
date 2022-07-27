@@ -1,0 +1,101 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "title": "Fjallraven - Foldsack No. 1 Backpack",
+      "price": 109,
+      "rate": 3.4,
+      "category": "bag"
+    },
+    {
+      "id": 2,
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "price": 150,
+      "rate": 3.4,
+      "category": "men"
+    },
+    {
+      "id": 3,
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "title": "Mens Cotton Jacket",
+      "price": 200,
+      "rate": 3.4,
+      "category": "men"
+    },
+    {
+      "id": 4,
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "title": "Mens Casual Slim Fit",
+      "price": 600,
+      "rate": 3.4,
+      "category": "men"
+    },
+    {
+      "id": 5,
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "title": "John Hardy Women's Legends ",
+      "price": 600,
+      "rate": 3.4,
+      "category": "brac"
+    },
+    {
+      "id": 6,
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "title": "Solid Gold Petite Micropave",
+      "price": 300,
+      "rate": 3.4,
+      "category": "brac"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nNFtvV3qVRN_laqKlLDRs-42abOXWvXoGSIMvVd2etz82xDHL-CnN81WbzlfB9Z4ElQ&usqp=CAU",
+      "id": 7,
+      "title": "Solid Gold Petite Micropave",
+      "price": 300,
+      "rate": 3.4,
+      "category": "women"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBA5ReGBI91evA8EizwH8CWmUssnrgf_SoqUOLAlyu0hfre8BxLJ34lOMgyWdaWdklCPs&usqp=CAU",
+      "id": 8,
+      "title": "Solid Gold Petite Micropave",
+      "price": 300,
+      "rate": 3.4,
+      "category": "women"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9z8Yp5FdqWng46uhBLFMlWA0eC5mhjqD8KA&usqp=CAU",
+      "id": 9,
+      "title": "Solid Gold Petite Micropave",
+      "price": 300,
+      "rate": 3.4,
+      "category": "women"
+    },
+    {
+      "image": "https://pixc.com/wp-content/uploads/2018/07/clothing-photography-mannequin-vs-model.jpg",
+      "id": 10,
+      "title": "Solid Gold Petite Micropave",
+      "price": 300,
+      "rate": 3.4,
+      "category": "clothes"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1jJ2fzwyqFs6IpjxM3-JGr7BBJkpDp6-bS_KxNCrrc5HxFy1N9JuVG65QxugUs1AXmgQ&usqp=CAU",
+      "id": 11,
+      "title": "Solid Gold Petite Micropave",
+      "price": 300,
+      "rate": 3.4,
+      "category": "women"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHzIzxcgMToySAg26oI0fHnOYCCiluryHo_JJNYaoHUXbRjo5UTp9EUiZN2TF3y8erR0&usqp=CAU",
+      "id": 12,
+      "title": "Solid Gold Petite Micropave",
+      "price": 300,
+      "rate": 3.4,
+      "category": "women"
+    }
+  ],
+  "cart": []
+}

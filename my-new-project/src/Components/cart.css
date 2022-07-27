@@ -1,0 +1,85 @@
+.carth4{
+     
+    width: 500px;
+}
+
+.cart{
+    width: 600px;
+    display: flex;
+     
+    margin-top: 50px;
+    margin-left: 100px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+.cartt{
+  font-size: 22px;
+  font-weight: 800;
+  margin-left: 30px;
+}
+
+.cartp{
+    font-size: 19px;
+    font-weight: 600;
+    margin-left: 30px;
+
+
+  }
+
+  .cartr{
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 30px;
+     
+    
+
+  }
+
+  .div{
+     padding-left: 5px;
+     padding-right: 5px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    display: flex   ;
+ 
+     
+  
+  }
+
+
+  .total{
+     margin-left: 100px;
+     display: flex;
+     margin-top: 20px;
+      
+  }
+
+  .chechbtn{
+    padding: 0px;
+     background-color: black;
+     color: white;
+     font-size: 20px;   
+     padding: 20px; 
+     margin-left: 30px;
+     border-radius: 10px;
+  }
+
+  .dom{
+    margin-left: 900px;
+    width: 500px;
+  }
+
+  .cartrr{
+    border: 0ch;
+   padding-left: 30px;
+   padding-right: 30px;
+   margin-left: 120px;
+    background-color: white;
+    color: black;
+    font-size: 22px;
+    
+  }

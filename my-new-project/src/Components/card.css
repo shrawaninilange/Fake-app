@@ -1,0 +1,23 @@
+.car{
+
+    height: 600px ;
+    display: flex;
+     
+}
+
+.card{
+    width: 350px;
+    height: 70px;
+    border: 1px solid black;
+    margin-left: 200px;
+    margin-top: 60px;
+     
+    
+}
+
+.ch3{
+    margin-left: 20px;
+    font-size: 22px;
+    padding-right: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

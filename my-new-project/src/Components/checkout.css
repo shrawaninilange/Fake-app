@@ -1,0 +1,76 @@
+.inch{
+    border: none;
+    border-bottom: 2px solid silver;
+    width: 400px;
+    margin-bottom: 40px;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.checkleft{
+    width: 95%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+ 
+
+    height: 550px;
+    margin-left: 150px;
+}
+
+.checktbn{
+    background-color:  black;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: white;
+    border: 0ch;
+    margin-left: 190px;
+    font-size: 20px;
+}
+
+
+.check1{
+    display: flex;
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+  
+}
+
+.chechtt{
+    display: flex;
+    margin-left: 30px;
+}
+
+.right{
+    
+    border: 1px solid black ;
+}
+
+.chpp{
+    margin-left: 300px;
+}
+
+.chppp{
+    margin-left: 350px;
+}
+
+.right{
+    margin-left: 40px;
+}
+ 
+.contactd{
+    margin-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 40px;
+    
+    
+
+}
+
+.go{
+    width: 500px;
+    height: 450px;
+    margin-left: 270px;
+    margin-top: 35px;
+}
